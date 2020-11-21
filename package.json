@@ -1,0 +1,17 @@
+{
+  "name": "alpha-mod",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "author": "anand mohanan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
